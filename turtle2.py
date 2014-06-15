@@ -6,7 +6,7 @@ List = ["green","red","magenta","blue","purple","maroon"]
 Listnum =  range(1,50)
 for color in List:
 	jake.color(color)
-	jake.forward(89)
+	jake.forward(92)
 	jake.left(angle)
 for number in Listnum:
 	for color in List:
