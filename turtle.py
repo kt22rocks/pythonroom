@@ -2,7 +2,7 @@
 import turtle
 jake = turtle.Turtle()
 angle=99
-List = ["green","red","magenta","blue"]
+List = ["green","red","magenta","blue","purple","maroon"]
 Listnum =  range(1,50)
 for color in List:
 	jake.color(color)
